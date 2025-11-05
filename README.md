@@ -37,10 +37,6 @@ cd ProductivityTimer
 3. **Run the App**:
 
 ```
-# On Windows
-python productivity_timer.py
-
-# On macOS / Linux
 python3 productivity_timer.py
 ```
 
@@ -83,3 +79,4 @@ Total Session Time: 00:40:25
 ==============================
 
 ```
+
