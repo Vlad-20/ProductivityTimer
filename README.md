@@ -47,6 +47,7 @@ python3 productivity_timer.py
 Using the app is a simple 3-step process:
 
 **Step 1: Setup Your Session**
+
 On the main window, you have two tasks:
 
 - **Set Time**: Enter your desired work time in `HH:MM:SS` format. (Note: MM and SS must be 59 or less).
@@ -54,6 +55,7 @@ On the main window, you have two tasks:
 - **Set Log File**: Click "Browse" and choose a folder. The app will automatically suggest the name `productivity_log.txt` for you.
 
 **Step 2: Run the Timer**
+
 Hit **Start**. A new, clean window will appear showing your countdown. You have two options:
 
 - **Pause**: This stops your main countdown and starts a counter tracking your pause time. Click "Resume" (the same button) to get back to work.
@@ -61,6 +63,7 @@ Hit **Start**. A new, clean window will appear showing your countdown. You have 
 - **Stop**: This ends the session immediately.
 
 **Step 3**: Review Your Log
+
 When you hit "Stop" (or the timer finishes naturally), the app does two things:
 
 1. It instantly saves your session data to the productivity_log.txt file you chose.
@@ -78,3 +81,4 @@ Total Time Paused:  00:08:15
 Total Session Time: 00:40:25
 ==============================
 ```
+
