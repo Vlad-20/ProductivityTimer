@@ -77,6 +77,4 @@ Effective Time Run: 00:32:10
 Total Time Paused:  00:08:15
 Total Session Time: 00:40:25
 ==============================
-
 ```
-
