@@ -23,7 +23,7 @@ This app is built with Python 3 and its built-in `tkinter` library, so you don't
 1. **Clone the Repository**: Get the files onto your machine.
 
 ```
-git clone [https://github.com/Vlad-20/ProductivityTimer.git](https://github.com/Vlad-20/ProductivityTimer.git)
+git clone https://github.com/Vlad-20/ProductivityTimer.git
 ```
 
 
@@ -81,4 +81,5 @@ Effective Time Run: 00:32:10
 Total Time Paused:  00:08:15
 Total Session Time: 00:40:25
 ==============================
+
 ```
